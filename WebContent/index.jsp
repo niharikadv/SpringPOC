@@ -12,11 +12,11 @@
 		    padding:0.3em;;
 		    text-align: center;
 		}
-		/*.header h1 {
+		.header h1 {
 		    color: #272727;
 		    font-size: 22px;
 		    font-weight: 700;
-		}*/
+		}
 		.main p {
 		    border-bottom: 1px solid #e7e0e0;
 		    color: #383737;
